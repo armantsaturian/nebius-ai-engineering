@@ -1,9 +1,13 @@
-# LLM Architectures — Homework 1
+# Nebius Academy — AI Engineering
 
-[Nebius Academy · AI Engineering](https://academy.nebius.com/ai-engineering-uk) — LLM Architectures course
+Coursework for the [AI Engineering](https://academy.nebius.com/ai-engineering-uk) program by Nebius Academy.
 
-**Topics covered:**
-- Logistic regression from scratch (PyTorch)
-- SGD training loop with learning rate & batch size experiments
-- L1 regularization (implementation + math)
-- Optimizer comparison: GD, Momentum, AdaGrad, Adam on convex & non-convex surfaces
+## Courses
+
+| # | Course | Status |
+|---|--------|--------|
+| 1 | [LLM Architectures](llm-architectures/) | In progress |
+| 2 | LLM Post-Training | — |
+| 3 | MLOps | — |
+| 4 | Performance Engineering | — |
+| 5 | From AI Model to AI Agent | — |
