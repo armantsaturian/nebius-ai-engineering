@@ -1,6 +1,6 @@
 # LLM Architectures — Homework 1
 
-Nebius Academy · LLM Architectures course
+[Nebius Academy · AI Engineering](https://academy.nebius.com/ai-engineering-uk) — LLM Architectures course
 
 **Topics covered:**
 - Logistic regression from scratch (PyTorch)
