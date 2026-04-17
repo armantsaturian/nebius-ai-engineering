@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+.vscode/
+llm-architectures/hw2/data/
+*.ipynb.bak
