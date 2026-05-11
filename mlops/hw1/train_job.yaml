@@ -3,7 +3,7 @@ name: nebius-ddp-training
 workdir: .
 
 resources:
-  infra: k8s/akademy-test-mk8s
+  infra: k8s/nebius-mk8s-armantsaturian-ddp-e00n87yvdwhf8kc5en
   accelerators: "H100:1"
   memory: "60+"
   image_id: docker:armantsaturian/nebius-trainer:v1
