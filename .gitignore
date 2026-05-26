@@ -6,3 +6,8 @@ __pycache__/
 llm-architectures/hw2/data/
 llm-architectures/hw2/dinos.txt
 *.ipynb.bak
+transcript_lecture.txt
+*.zip
+mlops/slides
+*.pt
+llm-architectures/hw4/data/
